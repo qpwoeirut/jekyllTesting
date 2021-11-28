@@ -1,3 +1,10 @@
-_site
-.sass-cache
+.idea
 .DS_Store
+
+vendor/
+
+# from https://github.com/github/gitignore/blob/master/Jekyll.gitignore
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
